@@ -7,7 +7,7 @@ module dist(A,B,C,D,B1,B2,B3,B4,B5);
 	or  G3(B5,a,b);
 	and G4(B4,A,~B,~C);
 	and G5(c,~A,B);
-	or 	G6(B3,c,b);
+	or G6(B3,c,b);
 	and G7(d,A,B,~C);
 	and G8(e,~A,C);
 	or  G9(B2,d,e);
